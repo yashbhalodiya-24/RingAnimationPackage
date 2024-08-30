@@ -1,0 +1,24 @@
+{
+  "name": "react-native-animation-ring",
+  "version": "2.1.27",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yash",
+  "license": "ISC",
+  "description": "This Ring Animation is react-native and expo in use.",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "expo": "~51.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashbhalodiya24/Expoapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashbhalodiya24/Expoapp/issues"
+  },
+  "homepage": "https://github.com/yashbhalodiya24/Expoapp#readme"
+}
