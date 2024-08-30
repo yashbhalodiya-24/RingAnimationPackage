@@ -1,6 +1,6 @@
 {
   "name": "react-native-animation-ring",
-  "version": "2.1.28",
+  "version": "2.1.29",
   "description": "react-native-animation-ring",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "yash",
   "license": "ISC",
-  "descriptions":"this ring animation is react-native and expo in use",
+  "descriptions": "this ring animation is react-native and expo in use",
   "peerDependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
