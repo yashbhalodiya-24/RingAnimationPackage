@@ -80,7 +80,7 @@ export default RingAnimation;
 
 ## Demo Video
 
-<!-- ![ring](Ring.gif)ring -->
+![ring](ring.gif)
 
 ### Ring Props
 
